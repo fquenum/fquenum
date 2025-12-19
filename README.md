@@ -13,7 +13,7 @@ My experience covers end-to-end systems, from data acquisition to web-based visu
 - Embedded processing and network communication (**LoRa, Wi-Fi**)
 - Data transmission to IoT platforms (**ThingsBoard**, **Microsoft Azure**)
 - Strong focus on **performance**, **reliability**, and **real-time constraints**
-- Client data visualization through **Qt-based HMI*
+- Client data visualization through *Qt-based HMI*
 
   
 ---
@@ -51,4 +51,4 @@ My experience covers end-to-end systems, from data acquisition to web-based visu
 
 ---
 
-📫 Contact me via GitHub or LinkedIn.
+ Contact me via GitHub or LinkedIn.
